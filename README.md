@@ -1,2 +1,2 @@
 ### html tags desc
-[index html](./index.)
+[index html](./index.html)
